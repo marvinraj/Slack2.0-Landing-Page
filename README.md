@@ -1,7 +1,5 @@
 # Slack2.0 - A Basic Slack Clone
 
-![Slack2.0 Screenshot](link_to_project_screenshot.png)
-
 Welcome to Slack2.0, a basic clone of the popular Slack messaging platform. This project was built using HTML and CSS and serves as a simple landing page (home page) for the site.
 
 ## About
